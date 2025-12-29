@@ -1,6 +1,6 @@
 # Hi, I'm Harish 👋
 
-I am a first year Computer Engineering Student @ Uoft
+I am a first year Computer Engineering Student @ UofT
 
 Welcome to my GitHub!  
 
