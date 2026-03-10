@@ -1,8 +1,21 @@
-### hey, i'm harish <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
-- first year computer engineering student at [uoft](https://www.utoronto.ca/)
-- seeking summer 2026 internships
-- fun fact: in my free time, I enojoy playing harmonium/piano or biking on scenic trails
+# Hi, I'm Harish ✌️
 
-Currently building: Quant trading system
+I'm a first-year Computer Engineering student at [University of Toronto](https://www.utoronto.ca/)  
+Currently **seeking Summer 2026 internships** in software, fintech, or systems.
 
-while you're here, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/harish-suhirthan/)
+---
+
+### 🛠 Projects & Interests
+- **Quant trading system** – analyzing market data and building strategies  
+- **Digital harmonium project** – exploring music and hardware  
+- **Learning C** – improving systems-level programming skills
+
+---
+
+### 🎵 Fun & Hobbies
+When I'm not coding, you’ll find me **playing instruments** or **biking around the city**.
+
+---
+
+### 📫 Connect
+Let’s work together or chat about projects! Reach out on [LinkedIn](https://www.linkedin.com/in/harish-suhirthan/)
