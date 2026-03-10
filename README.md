@@ -2,6 +2,8 @@
 
 First-year Computer Engineering student at the University of Toronto.
 
+I'm interested in building systems that combine software, data, and hardware — from algorithmic trading tools to low-level systems and automation projects.
+
 ## What I'm Working On
 - Quant / fintech tooling in Python (market data analysis, strategy development)
 - Systems and automation projects
