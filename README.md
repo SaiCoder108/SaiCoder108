@@ -1,7 +1,7 @@
 # Hi, I'm Harish ✌️
 
 I'm a first-year Computer Engineering student at [University of Toronto](https://www.utoronto.ca/)  
-Currently **seeking Summer 2026 internships** in software, fintech, or systems.
+Currently **seeking Summer 2026 internships** in software, fintech, or data infrastructure/analytics.
 
 ---
 
