@@ -9,7 +9,6 @@ Currently **seeking Summer 2026 internships** in software, fintech, or data infr
 - **Quant trading system** – analyzing market data and building strategies
 - **PastelFocus** - minimalistic focus timer with countdown and live clock
 - **Digital harmonium project** – exploring music and hardware  
-- **Learning C** – improving systems-level programming skills
 
 ---
 
