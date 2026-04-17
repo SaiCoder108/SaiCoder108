@@ -1,24 +1,24 @@
-# Harish Suhirthan
+# Hey, I'm Harish 👋
 
-Hey, I'm Harish — a first-year Computer Engineering student at the University of Toronto.
-I like building things that sit at the intersection of software and real-world problems,
-whether that's crunching market data, making a clean little web app, or wiring up hardware to play music.
+First-year Computer Engineering student at UofT, gravitating towards projects where
+something actually happens at the end. So far that's taken me through finance, web dev,
+algorithms, and robotics — and I'm just getting started.
 
-Currently looking for **Summer 2026 internships** in software, fintech, or data infrastructure — but honestly just happy to connect with people building cool stuff.
+Currently looking for **Summer 2026 internships** in software, fintech, or data infrastructure.
 
 ---
 
-## Building
+## What I'm building 🛠️
 
 | Project | What it is |
 |---|---|
-| **Quant Trading System** | Market data pipeline + strategy backtesting engine built with Python & Pandas |
-| **PastelFocus** | Minimal focus timer — countdown, live clock, zero distractions · Deployed on Vercel |
+| **Quant Trading System** | Market data pipeline + strategy backtesting engine |
+| **PastelFocus** | Minimal focus timer, zero distractions, deployed on Vercel |
 | **Digital Harmonium** | Hardware/software bridge for Indian classical music |
 
 ---
 
-## Stack
+## Stack ⚙️
 
 **Languages** · `Python` `C` `HTML` `CSS`  
 **Libraries** · `Pandas` `NumPy` `Flask` `Streamlit`  
@@ -27,13 +27,14 @@ Currently looking for **Summer 2026 internships** in software, fintech, or data 
 
 ---
 
-## Outside the terminal
+## Outside the terminal 🎵
 
-Musician first, engineer second — currently playing harmonium and tabla.  
-Exploring Toronto one bike route at a time.
+Harmonium player, habitual biker, and a car enthusiast who appreciates
+the engineering behind performance. The more I learn, the more I realize
+how much I don't know — and honestly that's what makes it fun.
 
 ---
 
-## Let's connect
+## Let's connect 🔗
 
 [LinkedIn](https://www.linkedin.com/in/harish-suhirthan/) · [Email](mailto:you@mail.utoronto.ca) · [GitHub](https://github.com/yourhandle)
