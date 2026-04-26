@@ -8,16 +8,6 @@ Currently looking for **Summer 2026 internships** in software, fintech, or data 
 
 ---
 
-## What I'm building 🛠️
-
-| Project | What it is |
-|---|---|
-| **Quant Trading System** | Market data pipeline + strategy backtesting engine |
-| **PastelFocus** | Minimal focus timer, zero distractions, deployed on Vercel |
-| **Digital Harmonium** | Hardware/software bridge for Indian classical music |
-
----
-
 ## Stack ⚙️
 
 **Languages** · `Python` `C` `HTML` `CSS`  
