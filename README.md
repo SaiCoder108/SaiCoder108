@@ -2,7 +2,7 @@
 
 First-year Computer Engineering student at UofT. My interests are in software engineering, AI systems, and infrastructure, with experience across finance, web development, algorithms, and robotics.
 
-Currently a contractor at Mercor, where I work on LLM evaluation quality assurance and calibration. I audit evaluator judgments, enforce rubric consistency, and perform rubric-based scoring of model outputs to improve the reliability of AI evaluation pipelines.
+Currently an AI analyst at Mercor, where I work on LLM evaluation quality assurance and calibration. I audit evaluator judgments, enforce rubric consistency, and perform rubric-based scoring of model outputs to improve the reliability of AI evaluation pipelines.
 
 ## ⚙️ Stack
 
