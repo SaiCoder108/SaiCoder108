@@ -22,4 +22,3 @@ Biking and badminton.
 
 - LinkedIn: [Harish Suhirthan](https://www.linkedin.com/in/harish-suhirthan/)
 - Email: [harishsuhi@gmail.com](mailto:harishsuhi@gmail.com)
-```
