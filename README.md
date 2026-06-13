@@ -1,30 +1,17 @@
-# Hey, I'm Harish 👋
+Hey, I'm Harish 👋
 
-First-year Computer Engineering student at UofT, gravitating towards projects where
-something actually happens at the end. So far that's taken me through finance, web dev,
-algorithms, and robotics — and I'm just getting started.
+First-year Computer Engineering student at UofT. My interests are in software engineering, AI systems, and infrastructure, with experience across finance, web development, algorithms, and robotics.
 
-Currently looking for **Summer 2026 internships** in software, fintech, or data infrastructure.
+Currently a contractor at Mercor, where I work on LLM evaluation quality assurance and calibration. I audit evaluator judgments, enforce rubric consistency, and perform rubric-based scoring of model outputs to improve the reliability of AI evaluation pipelines.
 
----
-
-## Stack ⚙️
-
-**Languages** · `Python` `C` `HTML` `CSS`  
-**Libraries** · `Pandas` `NumPy` `Flask` `Streamlit`  
-**Tools** · `Git` `Linux/Unix CLI` `Vercel`  
+**Stack ⚙️**
+**Languages** · Python · C · HTML · CSS
+**Libraries** · Pandas · NumPy · Flask · Streamlit
+**Tools** · Git · Linux/Unix CLI · Vercel
 **Working with** · CSV/file I/O · SMTP · Basic full-stack web
 
----
+**Outside of work 🚴**
+Biker and car enthusiast with an interest in the engineering behind performance and design.
 
-## Outside the terminal 🎵
-
-Harmonium player, habitual biker, and a car enthusiast who appreciates
-the engineering behind performance. The more I learn, the more I realize
-how much I don't know — and honestly that's what makes it fun.
-
----
-
-## Let's connect 🔗
-
-[LinkedIn](https://www.linkedin.com/in/harish-suhirthan/) · [Email](mailto:you@mail.utoronto.ca) · [GitHub](https://github.com/yourhandle)
+**Let's connect 🔗**
+LinkedIn · Email · GitHub
